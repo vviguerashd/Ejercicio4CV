@@ -1,0 +1,56 @@
+
+h1 {
+    color: brown;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+h2 {color: blueviolet;
+}
+h3 {color: rgb(15, 7, 2);
+}
+ul {color: blue;
+}
+.section #Academia {color: pink;
+    background-color: aquamarine;
+}
+#titulo {background-color: blanchedalmond;
+} 
+#academia {background-color: chocolate;
+}
+#interes {background-color: chartreuse;
+}
+#titulo h1 {background-color: black;
+    color: aqua;
+}
+#foto {
+    width: 370px;
+}
+.section #titulo bona-nova-sc-regular {
+    font-family: "Bona Nova SC", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+#titulo {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+size: 80px;
+}
+h1 {size: 80px;
+}
+
+#laboral, #academia, #interes {
+    display: flex;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;   
+}
+
+.section {
+    border-radius: 10%;
+}
+
+#laboral {
+    background-color: blue;
+    text-decoration-color: bisque;
+}
